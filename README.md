@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 
+
+I'm currently working privately on EntranceAudio, an area-based audio system mod for Minecraft to help map makers and mod pack developers make a more immersive world, with a focus on multiplayer synchronisation. Once I am satisfied with the mod, it'll be released under the MIT License.
+
+I have experience in Cloud, Machine Learning, Automation and Full-Stack development. Throw me into a conversation into any tech-related topics, I probably having something interesting to say!
+
+Currently pursuing Google's Professional Cloud DevOps Engineer Certification.
+
+# Accounts and links
+
+My old scratch projects: https://scratch.mit.edu/users/poplopuk_alt/
 
 <!--
 **Xiragi/xiragi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
